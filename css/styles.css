@@ -72,28 +72,28 @@ a:hover {
   color: #A5C9CA;
 }
 .earth {
-  height: 300px;
+  height: 50%;
   position: absolute;
-  right: 100px;
-  top: 0px;
+  right: 5%;
+  top: 0%;
 }
 .spacecraft {
-  height: 250px;
+  height: 40%;
   position: absolute;
-  left: 100px;
-  bottom: 130px;
+  left: 5%;
+  bottom: 15%;
 }
 
 .moon {
-  height: 200px;
+  height: 30%;
   position: absolute;
-  bottom: 10px;
+  bottom: 5%;
 }
 .planet-3 {
-  height: 220px;
+  height: 40%;
   position: absolute;
-  bottom: 480px;
-  left: 200px;
+  bottom: 80%;
+  left: 10%;
 }
 .About-Me-Texts {
   width: 50%;
